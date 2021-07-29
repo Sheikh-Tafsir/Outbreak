@@ -1,0 +1,2 @@
+Covid Simulator
+Using C++, SFML
